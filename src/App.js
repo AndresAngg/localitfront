@@ -19,9 +19,9 @@ function App() {
   }
   const geolocateControlStyle= {
     right: 10,
-    top: 10
+    top: 120
   };
-  console.log('hola')
+ 
   return (
     <div className="cont">
       <div id="form">
